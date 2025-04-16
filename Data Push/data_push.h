@@ -6,11 +6,9 @@
 #define DSA_DATA_PUSH_H
 
 
-
 class data_push {
 
 };
-
 
 
 #endif //DSA_DATA_PUSH_H

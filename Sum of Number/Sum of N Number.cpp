@@ -12,6 +12,7 @@ int main(){
     for(int i = 1; i <= number; i++){
         sum = sum + i;
     };
+    
     cout << "The sum of the first " << number << " numbers is: " << sum << endl;
     return 0;
 }
